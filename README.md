@@ -44,7 +44,7 @@ Also, using formula recognition and shape beautification, handwritten can be con
 
 ![Pen 4](http://developer.samsung.com/sd2_images/galaxy/content/sms_pen_150818_04.jpg)
 
-Restrictions
+__Restrictions__
 
 Pen SDK has the following restrictions:
 
