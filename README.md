@@ -1,6 +1,6 @@
-# Pen SDK Full
+# Pen SDK Light
 
-[![Latest Stable Version](https://img.shields.io/badge/version-4.1.2-green.svg)](http://developer.samsung.com/galaxy/professional-audio)
+[![Latest Stable Version](https://img.shields.io/badge/version-4.1.2-green.svg)](http://developer.samsung.com/galaxy/pen)
 
 > Note
 > 1) In the Pen SDK v4.1.0, Dynamic version is not supported, only it supports Static version.
